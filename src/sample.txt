@@ -1,8 +1,0 @@
-apple1.txt
-chicken1.txt
-client
-client.c
-sample.txt
-server
-server.c
-test1.txt
